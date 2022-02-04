@@ -1,7 +1,7 @@
 {
   "name": "burger-eats",
   "version": "1.0.0",
-  "description": "Projeti de testes de aceitaçãi di app BurgerEats",
+  "description": "Projeto de testes de aceitação do app BurgerEats",
   "main": "index.js",
   "scripts": {
     "test": "npx cypress open"
